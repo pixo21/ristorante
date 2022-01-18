@@ -1,19 +1,39 @@
+RISTORANTE DEVELHOPE
+Il nostro menù è di carne.
+
+Bevande: 
+	 Acqua minerale naturale o gasata 0,75
+	 Bibite 0,33 bottiglia
+	 Coca Cola 0,30 spina piccola
+	 Coca Cola 0,40 spina media
+	 Coca Bottiglia vetro da 1L
+	 Birra alla spina Nastro Azzurro piccola 0,20
+	 Birra alla spina Nastro Azzurro media 0,40
+	 Birra Ichnusa non filtrata  0,50
+	 Dolomiti Rossa 0,75 birra rossa maltata
+	 Caffè
+	 Caffè decaffeinato
+	 Liquori nazionali
+	 Liquori esteri
+
 Antipasti: 
-            Bruschette classiche
+	    Bruschette classiche
             Formaggi misti
             Antipasto misto
             Caprese
             Affettati misti
+	    
 
 Primi piatti: 
-            Stringhetti ai funghi porcini
-            Risotto agli asparagi e salsiccia
-            Tagliatelle alla gricia con guanciale, pecorino e pepe nero
-            Ravioli di ricotta fresca e spinacini conditi con bacon e zucchine
+             Stringhetti ai funghi porcini
+             Risotto agli asparagi e salsiccia
+             Tagliatelle alla gricia con guanciale, pecorino e pepe nero
+             Ravioli di ricotta fresca e spinacini conditi con bacon e zucchine
+	    
 
 Secondi piatti:
-	    Parmigiana di melanzane
-	    Polpette al sugo
-	    Cosce di pollo al forno
-	    Peperoni ripieni di carne
-	    Pollo arrosto
+	     Parmigiana di melanzane
+	     Polpette al sugo
+	     Cosce di pollo al forno
+	     Peperoni ripieni di carne
+	     Pollo arrosto
