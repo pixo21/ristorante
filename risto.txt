@@ -1,0 +1,12 @@
+Antipasti: 
+            Bruschette classiche
+            Formaggi misti
+            Antipasto misto
+            Caprese
+            Affettati misti
+
+Primi piatti: 
+            Stringhetti ai funghi porcini
+            Risotto agli asparagi e salsiccia
+            Tagliatelle alla gricia con guanciale, pecorino e pepe nero
+            Ravioli di ricotta fresca e spinacini conditi con bacon e zucchine
