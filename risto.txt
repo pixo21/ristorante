@@ -10,3 +10,9 @@ Primi piatti:
             Risotto agli asparagi e salsiccia
             Tagliatelle alla gricia con guanciale, pecorino e pepe nero
             Ravioli di ricotta fresca e spinacini conditi con bacon e zucchine
+Secondi piatti:
+	Parmigiana di melanzane
+	Polpette al sugo
+	Cosce di pollo al forno
+	Peperoni ripieni di carne
+	Pollo arrosto
